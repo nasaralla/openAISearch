@@ -1,0 +1,11 @@
+{
+  "name": "openai-search",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "node chat.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
